@@ -1,0 +1,59 @@
+.view{
+    z-index: 1;
+    background: #FFFFFF;
+    border: 1px solid #E3E2E4;
+    width: 190px;
+    height: auto;
+    box-shadow:  0 4px 4px -1px rgba(122,122,122,0.4);
+    border-radius: 10px;
+    text-align: center;
+    padding-top:10px;
+    position: fixed;
+    margin-top: 40px;
+    margin-left: -80px;
+    transition:all 1.7s ease-out;
+
+}
+.view:hover{
+    z-index:99999999;
+}
+.viewButton{
+    background: #C9F7F6;
+    border: none;
+    width: 110px;
+    height: 35px;
+    border-radius: 10px;
+    color:#51D7C3;
+    float:right;
+    font-weight: bold;
+}
+.viewButton:hover{
+    color: #C9F7F6;
+    background: #51D7C3;
+    transition: 1s;
+}
+#btnDup{
+    background: #EFF3F6;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 10px;
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+}
+#btnDup:hover, #btnDel:hover{
+    background: #C9F7F6;
+    color: #292929;
+    transition: 0.7s;
+}
+#btnDel{
+    background: #EFF3F6;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 180px;
+    height: 40px;
+    margin-bottom:10px;
+}

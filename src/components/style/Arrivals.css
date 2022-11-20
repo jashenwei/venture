@@ -1,0 +1,14 @@
+.starRating{
+    color:#F4AE1A;
+}
+.text-gr{
+    color: #D0CFD4;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+}
+.avatar{
+    border-radius: 5px;
+    width: 34px;
+    height: 50px;
+    opacity: 0.7;
+}
