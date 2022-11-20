@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/venture/static/css/main.c068eb29.css",
+    "main.js": "/venture/static/js/main.cc8f5400.js",
+    "static/js/787.28cb0dcd.chunk.js": "/venture/static/js/787.28cb0dcd.chunk.js",
+    "static/media/2.png": "/venture/static/media/2.181b6bf80f6ab08a3d3f.png",
+    "index.html": "/venture/index.html",
+    "main.c068eb29.css.map": "/venture/static/css/main.c068eb29.css.map",
+    "main.cc8f5400.js.map": "/venture/static/js/main.cc8f5400.js.map",
+    "787.28cb0dcd.chunk.js.map": "/venture/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c068eb29.css",
+    "static/js/main.cc8f5400.js"
+  ]
+}
